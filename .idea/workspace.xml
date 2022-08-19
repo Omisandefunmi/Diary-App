@@ -5,26 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4acdaf5e-b5de-4caf-bee3-fbaf6749eaec" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/firstMavenProject/data/model/DeletedEntry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/firstMavenProject/data/model/Diary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/firstMavenProject/data/model/Entry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/firstMavenProject/data/model/RecycleBin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/firstMavenProject/data/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/firstMavenProject/data/repository/EntryRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/firstMavenProject/data/repository/EntryRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/firstMavenProject/data/repository/RecycleBin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/firstMavenProject/data/repository/RecycleBinImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/firstMavenProject/data/repository/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/firstMavenProject/data/repository/UserRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/firstMavenProject/data/repository/EntryRepositoryImplTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/firstMavenProject/data/repository/RecycleBinImplTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/firstMavenProject/data/repository/UserRepositoryImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/firstMavenProject/data/model/RecycleBin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/firstMavenProject/data/repository/RecycleBin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/firstMavenProject/data/repository/RecycleBin.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +43,8 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
@@ -175,7 +160,12 @@
       <workItem from="1655072272881" duration="5200000" />
       <workItem from="1655213421239" duration="1322000" />
       <workItem from="1655349045462" duration="33950000" />
-      <workItem from="1655576664096" duration="647000" />
+      <workItem from="1655576664096" duration="2064000" />
+      <workItem from="1656252325743" duration="1709000" />
+      <workItem from="1656368173867" duration="4976000" />
+      <workItem from="1656432452788" duration="1598000" />
+      <workItem from="1657222391432" duration="640000" />
+      <workItem from="1660903907044" duration="725000" />
     </task>
     <servers />
   </component>
